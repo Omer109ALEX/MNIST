@@ -1,2 +1,4 @@
-# mnist using keras and CNN
- solve mnis problem with CNN model with keras
+# MNIST
+ 
+ CNN model for MNIST useing keras to train and test the model
+ 
